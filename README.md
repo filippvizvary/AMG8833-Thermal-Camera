@@ -1,4 +1,4 @@
-# Thermal Camera (AMG8833 + ILI9341 + Pico W)
+# Thermal Camera (AMG8833 + ILI9341 + Pico W + Python Client)
 
 A small thermal camera project that reads an AMG8833 8x8 thermal sensor and renders a live heatmap on an ILI9341 TFT.
 
